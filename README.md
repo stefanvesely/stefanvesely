@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefanvesely
 - 👀 I’m interested in any complicated problem.
-- 🌱 I’m currently learning Blazor server side web application.
+- 🌱 I’m Currently learning .net Machine Learning for some work projects.
 - 💞️ I’m looking to collaborate on anything difficult.
 - 📫 How to reach me thestefanvesely(at)gmail.com
 
